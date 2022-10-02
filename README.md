@@ -15,3 +15,9 @@ N皇后https://leetcode.cn/problems/n-queens/
 旋转图像https://leetcode.cn/problems/rotate-image/
 
 组合总和https://leetcode.cn/problems/combination-sum/
+
+位1的个数https://leetcode.cn/problems/number-of-1-bits/
+
+字符串解码https://leetcode.cn/problems/decode-string/
+
+
