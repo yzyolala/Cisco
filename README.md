@@ -6,7 +6,7 @@ https://leetcode.cn/problems/validate-ip-address/
 
 https://leetcode.cn/problems/word-search/
 
-买卖股票
+[买卖股票](https://github.com/yzyolala/Cisco/blob/main/%E4%B9%B0%E5%8D%96%E8%82%A1%E7%A5%A8.md)
 
 https://leetcode.cn/problems/best-time-to-buy-and-sell-stock/
 
