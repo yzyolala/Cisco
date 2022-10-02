@@ -8,7 +8,7 @@ IP地址https://leetcode.cn/problems/validate-ip-address/
 
 N皇后https://leetcode.cn/problems/n-queens/
 
-最大子数组和https://leetcode.cn/problems/maximum-subarray/
+[最大子数组和](https://github.com/yzyolala/Leetcode-Blind-75/blob/main/53.%20Maximum%20Subarray.md)https://leetcode.cn/problems/maximum-subarray/
 
 打家劫舍https://leetcode.cn/problems/house-robber/
 
