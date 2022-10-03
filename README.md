@@ -10,7 +10,7 @@ https://leetcode.cn/problems/word-search/
 
 https://leetcode.cn/problems/best-time-to-buy-and-sell-stock/
 
-解码方法
+[解码方法](https://github.com/yzyolala/Cisco/blob/main/%E8%A7%A3%E7%A0%81%E6%96%B9%E6%B3%95.md)
 
 https://leetcode.cn/problems/decode-ways/
 
