@@ -38,7 +38,7 @@ https://leetcode.cn/problems/combination-sum/
 
 https://leetcode.cn/problems/number-of-1-bits/
 
-字符串解码
+[字符串解码](https://github.com/yzyolala/Cisco/blob/main/%E5%AD%97%E7%AC%A6%E4%B8%B2%E8%A7%A3%E7%A0%81.md)
 
 https://leetcode.cn/problems/decode-string/
 
