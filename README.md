@@ -2,7 +2,7 @@ IP地址
 
 https://leetcode.cn/problems/validate-ip-address/
 
-单词搜索
+[单词搜索](https://github.com/yzyolala/Cisco/blob/main/%E5%8D%95%E8%AF%8D%E6%90%9C%E7%B4%A2.md)
 
 https://leetcode.cn/problems/word-search/
 
